@@ -32,7 +32,7 @@ This project was created for **learning and practice purposes**, focusing on imp
    ```
 2. Open the `index.html` file in your browser.
 
----
+---C:\Users\murugan\OneDrive\Desktop\FSWD\UDEMY-CLONE\index.html
 
 Would you like me to make it **shorter and simpler** (for a quick README) or **more detailed** (for a portfolio-style README)?
 
